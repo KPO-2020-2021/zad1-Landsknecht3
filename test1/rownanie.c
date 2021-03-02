@@ -11,7 +11,9 @@ struct TrojmianKw {
 
 typedef struct TrojmianKw  TrojmianKw;
 
-
+/* Komentarz */
+/* Program skompilowal sie poprawnie przy uzyciu kompilatora jezyka C (gcc -Wall -pedantic) oraz jezyka C++ (g++ -Wall -pedantic) */
+/* Program dziala prawidlowo dla obydwu wersji */
 
 int main() {
   TrojmianKw   TKw;

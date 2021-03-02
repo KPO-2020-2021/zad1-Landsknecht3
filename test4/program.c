@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-
+/* Program poprawnie sie kompiluje w kompilatorze jezyka c. W kompilatorze jezyka c++ wyskakuje wiadomosc o bledzie, iz funkcja dodaj nie przyjmuje tyle argument*/
 double Dodaj();
 
 
